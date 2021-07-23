@@ -1,0 +1,28 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+#particles-js
+{
+   background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(the-avengers-avengers-endgame-avengers-endgame-captain-america-hulk-hd-wallpaper-preview.jpg);
+    height: 100vh;
+    background-size: cover;
+   background-position:center; 
+}
+.logo
+{
+    margin-top: 25px;
+    font-size: 28px;
+    text-transform: uppercase;
+
+}
+.mohan
+{
+    margin-left: 5%;
+    position: absolute;
+    color: #fff;
+    font-family: sans-serif;
+}
+
+  
